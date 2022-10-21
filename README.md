@@ -1,7 +1,7 @@
 # MG-GAN
 Our code will be made public later
 
-#Description of MG-GAN
+#Description
 Our paper has been submitted to MDPI and is coming soon.
 
 
